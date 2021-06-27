@@ -74717,7 +74717,7 @@ wv:function(a){return this.acy(!1)},
 acy:function(a){var s=0,r=P.Q(t.Wd),q,p=this,o,n
 var $async$wv=P.M(function(b,c){if(b===1)return P.N(c,r)
 while(true)switch(s){case 0:o=t.N
-n=P.az(["Content-Type","application/json","Accept","application/json"],o,o)
+n=P.az(["Content-Type","application/json","Accept","application/json","Access-Control-Allow-Origin","true"],o,o)
 P.bX(C.b.Y("request:"+p.gfR(p),p.gqC(p)))
 s=3
 return P.S(G.aR7(P.jC(p.gfR(p),0,null),p.gqC(p),n).xK(0,P.cz(0,0,10)),$async$wv)
