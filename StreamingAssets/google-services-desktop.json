@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926389799771",
+    "project_id": "punch-monster-9405541",
+    "storage_bucket": "punch-monster-9405541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926389799771:android:3e0ba2276cc9bafbe4687e",
+        "android_client_info": {
+          "package_name": "com.technair.punchmonster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926389799771-bdfnq4eh51e9bvsiqk7tfun4jqf6r378.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDWnyCp-tTwbFinhLYpnyZkrxrXnOYac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926389799771-bdfnq4eh51e9bvsiqk7tfun4jqf6r378.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926389799771-g96hqbjpg9a91b4h4dqs8ihqruh5glv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.technair.punchmonster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

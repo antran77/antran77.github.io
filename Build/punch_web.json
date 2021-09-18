@@ -1,0 +1,16 @@
+{
+"companyName": "Technair",
+"productName": "Punch Monsters",
+"productVersion": "1.0.4",
+"dataUrl": "punch_web.data.unityweb",
+"wasmCodeUrl": "punch_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "punch_web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.24f1"
+}
