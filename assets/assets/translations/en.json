@@ -1,0 +1,15 @@
+{
+    "appName": "Help Some",
+    "page": {
+        "main": {},
+        "settings": {
+            "title": "Settings"
+        }
+    },
+    "button": {
+        "ok": "Ok",
+        "cancel": "Cancel",
+        "yes": "Yes",
+        "no": "No"
+    }
+}
