@@ -1,6 +1,6 @@
 {
-    "name": "testtouch",
-    "short_name": "testtouch",
+    "name": "helpsome",
+    "short_name": "helpsome",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
